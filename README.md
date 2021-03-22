@@ -1,11 +1,11 @@
-* Repositório de Cypress
+### Repositório de Cypress
 
 Semana 1.0 Agilizei Samuel Lucas
 
-* Cypress
+## Cypress
 
-### Instalação
-Clonando o projeto
+#### Instalação
+Clonando o projeto<br>
 Url: 
 
 
@@ -22,12 +22,12 @@ $ npm run cypress:open
 $ npm run cypress:run
 
 
-## Plugins VSCode
-Mocha ES6 Snippets<br>
-Cypress Helper<br>
-Cuke Steps Generator<br>
-Cucumber (Gherkin) Full Support<br>
+### Plugins VSCode
+-Mocha ES6 Snippets<br>
+-Cypress Helper<br>
+-Cuke Steps Generator<br>
+-Cucumber (Gherkin) Full Support<br>
 
 
-## Site e teste:
-$ demo.automationtesting.in/index.html
+## Site de teste:
+Url: demo.automationtesting.in/index.html
