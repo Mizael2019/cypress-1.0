@@ -2,11 +2,11 @@
 
 Semana 1.0 Agilizei Samuel Lucas
 
-## Cypress
+
+### Cypress
 
 #### Instalação
-Clonando o projeto<br>
-Url: 
+Clone o projeto.
 
 
 ### Instalando as dependências:
@@ -29,5 +29,5 @@ $ npm run cypress:run
 -Cucumber (Gherkin) Full Support<br>
 
 
-## Site de teste:
+### Site de teste
 Url: demo.automationtesting.in/index.html
